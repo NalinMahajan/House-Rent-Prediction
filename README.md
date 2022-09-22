@@ -7,5 +7,5 @@
 * A gross lease is when the tenant pays a flat rental amount and the landlord pays for all property charges regularly incurred by the ownership. 
 * Renting can be an example of the sharing economy.
 
-*In this Dataset, we have information on almost 4700+ Houses/Apartments/Flats Available for Rent with different parameters
+* In this Dataset, we have information on almost 4700+ Houses/Apartments/Flats Available for Rent with different parameters
 like BHK, Rent, Size, No. of Floors, Area Type, Area Locality, City, Furnishing Status, Type of Tenant Preferred, No. of Bathrooms, Point of Contact.
